@@ -2,7 +2,7 @@
 I have prepared a list of the Top  Python Interview PROGRAM along with their answers.
 Python is a general-purpose, high-level programming language. It is the most popular language among developers and programmers as it can be used in Machine Learning, Web Development, Image Processing, etc. Currently, a lot of tech companies like Google, Amazon, Facebook, etc. are using Python and hiring a lot of people every year. We have prepared a list of the Top  Python Interview program along with their answers.
 
-create a program that generates a Fibonacci sequence.
+create a program that generates a Fibonacci sequence.  
 
 Make a Python script that checks if a given number is prime
 
