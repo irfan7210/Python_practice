@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMs3VP0OtgnFQwaPVF4v5MK",
+      "authorship_tag": "ABX9TyOKQ/k+4cv3AuE8TAyfBnK7",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,7 +23,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/irfan7210/Python_practice/blob/main/Regex_irfan.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/irfan7210/Python_practice/blob/main/Regular%20Expresiion(RegEx)\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -166,7 +166,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "vlo-_AZeDUYj",
-        "outputId": "0a343096-5fb8-4673-b793-bca551179438"
+        "outputId": "bd71eb75-5b91-48dd-ba36-450cd84200c8"
       },
       "execution_count": 4,
       "outputs": [
@@ -189,7 +189,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "WSpinaFbDfx2",
-        "outputId": "7265c353-553e-4376-8826-4d1a8057feeb"
+        "outputId": "6cda51ba-2781-4f06-d52a-a37e912d0050"
       },
       "execution_count": 5,
       "outputs": [
@@ -212,7 +212,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "ZzBX6KoQJiEr",
-        "outputId": "8b2332c0-6074-4661-de14-3c2da70e1712"
+        "outputId": "b3be4efd-0e9b-45c6-808f-63400d50aeb3"
       },
       "execution_count": 6,
       "outputs": [
@@ -238,7 +238,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "bp1Grs7xKAKy",
-        "outputId": "39d82c5d-e53b-4dee-a16a-50f12a7a8493"
+        "outputId": "4f32a3a8-d51e-46a8-94de-b516cd7b8515"
       },
       "execution_count": 7,
       "outputs": [
@@ -265,7 +265,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "nCCaQ4qqKW48",
-        "outputId": "825aa910-0332-4b82-eb89-4c41201abf2e"
+        "outputId": "de029e73-d14a-458f-efa0-b5ce2ac256f7"
       },
       "execution_count": 8,
       "outputs": [
@@ -305,7 +305,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "outputId": "b34930e5-b64d-4993-bdb2-30d97dac480b"
+        "outputId": "1e16d3cb-3693-4879-bc63-2cd0c4407b2a"
       },
       "execution_count": 10,
       "outputs": [
@@ -543,7 +543,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "pCpbKRn6XiDk",
-        "outputId": "b08dfae1-71b8-4f22-dac9-ff51397f1a4d"
+        "outputId": "270b160e-2dbc-4cc0-e135-4361c6847e89"
       },
       "execution_count": 11,
       "outputs": [
@@ -573,7 +573,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "XGut6ms7Jm9a",
-        "outputId": "03201cf5-978e-431b-f277-34b3db41721a"
+        "outputId": "57b82dfe-7d29-4a96-bd57-0590b4ee94ed"
       },
       "execution_count": 12,
       "outputs": [
@@ -602,7 +602,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "01EayE94LkiB",
-        "outputId": "2599cebd-b6be-4cec-a584-4614efa062fb"
+        "outputId": "fe9d3f22-1968-4a1c-dbe3-fac4f1b49a65"
       },
       "execution_count": 13,
       "outputs": [
@@ -640,7 +640,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "outputId": "a18b6930-8162-410f-9a97-6de17ea05dfc"
+        "outputId": "3f7d0a00-5657-4147-f5bc-3819b5d6dc0e"
       },
       "execution_count": 15,
       "outputs": [
@@ -754,7 +754,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "outputId": "e36cc551-784a-4cf5-92af-281c61419b98"
+        "outputId": "93d804e1-3698-49ed-bc3b-edcf59e28f80"
       },
       "execution_count": 16,
       "outputs": [
@@ -1071,7 +1071,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "PvCqejOsTaJw",
-        "outputId": "22cd0015-4b60-4715-8a87-adfcb897082b"
+        "outputId": "72188313-7cc6-44a3-f395-a3c46b2cae10"
       },
       "execution_count": 17,
       "outputs": [
@@ -1122,7 +1122,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "c-6rzw9fUb-f",
-        "outputId": "0049b72e-71f9-4861-9cee-ef26fd65e253"
+        "outputId": "164c48e7-9219-4ff5-900d-35d1e95d90f0"
       },
       "execution_count": 18,
       "outputs": [
@@ -1150,7 +1150,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "0ZfF-MBYUb6S",
-        "outputId": "e2badee4-b7d2-4fdc-bbe8-e9c9b4688040"
+        "outputId": "0f594b60-279a-4947-f8de-749a711d58f2"
       },
       "execution_count": 19,
       "outputs": [
@@ -1168,6 +1168,21 @@
       ]
     },
     {
+      "cell_type": "markdown",
+      "source": [
+        "The re.findall() method in Python is used to search for all occurrences of a pattern in a given string and return them as a list. Unlike re.search(), which returns only the first match, re.findall() extracts all matches of the pattern.\n",
+        "\n",
+        "\n",
+        "\n",
+        "If multiple groups are used in the pattern, findall() returns only the captured groups, not the full match.\n",
+        "If there's one group, findall() returns only that group.\n",
+        "If no groups are used, it returns the full match."
+      ],
+      "metadata": {
+        "id": "SqzbeA7tB9Kh"
+      }
+    },
+    {
       "cell_type": "code",
       "source": [
         "#find all method act as a group match amd return list of tuple\n",
@@ -1181,9 +1196,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "ajJuf-l5RC3l",
-        "outputId": "d1c5210e-5c2e-459c-e76c-167209dc3de3"
+        "outputId": "7ba43821-2272-442f-847f-cfbfd20efc8a"
       },
-      "execution_count": 37,
+      "execution_count": 20,
       "outputs": [
         {
           "output_type": "stream",
@@ -1206,8 +1221,17 @@
       "metadata": {
         "id": "_tu1MRv-UT5y"
       },
-      "execution_count": 38,
+      "execution_count": 21,
       "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "The re.match() method checks only at the beginning of a string for a match. If the pattern is found at the start, it returns a match object. Otherwise, it returns None"
+      ],
+      "metadata": {
+        "id": "H1lgdsl_CPl8"
+      }
     },
     {
       "cell_type": "code",
@@ -1217,26 +1241,26 @@
         "pattern = re.compile(r'start')\n",
         "matches = pattern.match(sentence)\n",
         "for match in matches:\n",
-        "  print(match)"
+        "  print(match)  #show error"
       ],
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 237
+          "height": 201
         },
         "id": "XX0k9t5xTyTi",
-        "outputId": "5b86c419-60da-40ab-bd13-bc2a13f6ba49"
+        "outputId": "76589657-a026-4d71-c78f-0c24243c0557"
       },
-      "execution_count": 39,
+      "execution_count": 38,
       "outputs": [
         {
           "output_type": "error",
           "ename": "TypeError",
-          "evalue": "ignored",
+          "evalue": "'NoneType' object is not iterable",
           "traceback": [
             "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
             "\u001b[0;31mTypeError\u001b[0m                                 Traceback (most recent call last)",
-            "\u001b[0;32m<ipython-input-39-b0665fce1c5f>\u001b[0m in \u001b[0;36m<cell line: 5>\u001b[0;34m()\u001b[0m\n\u001b[1;32m      3\u001b[0m \u001b[0mpattern\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mre\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mcompile\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34mr'start'\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      4\u001b[0m \u001b[0mmatches\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mpattern\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mmatch\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0msentence\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m----> 5\u001b[0;31m \u001b[0;32mfor\u001b[0m \u001b[0mmatch\u001b[0m \u001b[0;32min\u001b[0m \u001b[0mmatches\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m      6\u001b[0m   \u001b[0mprint\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mmatch\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+            "\u001b[0;32m<ipython-input-38-5dbdcb251ac3>\u001b[0m in \u001b[0;36m<cell line: 0>\u001b[0;34m()\u001b[0m\n\u001b[1;32m      3\u001b[0m \u001b[0mpattern\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mre\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mcompile\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34mr'start'\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      4\u001b[0m \u001b[0mmatches\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mpattern\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mmatch\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0msentence\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m----> 5\u001b[0;31m \u001b[0;32mfor\u001b[0m \u001b[0mmatch\u001b[0m \u001b[0;32min\u001b[0m \u001b[0mmatches\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m      6\u001b[0m   \u001b[0mprint\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mmatch\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
             "\u001b[0;31mTypeError\u001b[0m: 'NoneType' object is not iterable"
           ]
         }
@@ -1254,9 +1278,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "87HCBD0UUn77",
-        "outputId": "1d2de394-b0db-4935-8ec6-e95ed8fcacbe"
+        "outputId": "5d0bef94-b742-46c9-b352-3b3d7d5e1458"
       },
-      "execution_count": 41,
+      "execution_count": 24,
       "outputs": [
         {
           "output_type": "stream",
@@ -1280,9 +1304,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "fgU2QNXYVOqf",
-        "outputId": "93b07006-2c91-428c-9c2d-033b123c5dc8"
+        "outputId": "247d8ded-12fc-4786-e6c3-4254c952f650"
       },
-      "execution_count": 42,
+      "execution_count": 25,
       "outputs": [
         {
           "output_type": "stream",
@@ -1306,9 +1330,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "97ZTzu6ZWa1u",
-        "outputId": "190ecaeb-b231-4e8b-dde4-b8352d3d2db3"
+        "outputId": "87867943-5ce7-48b6-9877-6af7251c9989"
       },
-      "execution_count": 43,
+      "execution_count": 26,
       "outputs": [
         {
           "output_type": "stream",
@@ -1331,7 +1355,7 @@
       "metadata": {
         "id": "bjMk8aTGUbzx"
       },
-      "execution_count": 20,
+      "execution_count": 27,
       "outputs": []
     },
     {
@@ -1348,9 +1372,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "RrOWXg-eUbwp",
-        "outputId": "7d640d52-6f8f-4913-a29b-464d9e40fab0"
+        "outputId": "aa251629-07f1-4cf8-c268-a33329df10a8"
       },
-      "execution_count": 21,
+      "execution_count": 28,
       "outputs": [
         {
           "output_type": "stream",
@@ -1379,9 +1403,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "c0T98EeZUbtR",
-        "outputId": "34857c98-da2b-4d25-a804-9eaa79a35a54"
+        "outputId": "2e8952d6-e0a8-4f5b-f5ba-14decca6fe57"
       },
-      "execution_count": 22,
+      "execution_count": 29,
       "outputs": [
         {
           "output_type": "stream",
@@ -1407,7 +1431,7 @@
       "metadata": {
         "id": "kxoANGKQtKmJ"
       },
-      "execution_count": 23,
+      "execution_count": 30,
       "outputs": []
     },
     {
@@ -1425,9 +1449,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "oKoO2lGVtKix",
-        "outputId": "64a16f62-e036-49c3-c547-e74d5d8a61e2"
+        "outputId": "3310ce98-9283-4fa5-b621-bdac2da31267"
       },
-      "execution_count": 24,
+      "execution_count": 31,
       "outputs": [
         {
           "output_type": "stream",
@@ -1456,7 +1480,7 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "tzRdITI8KxXL",
-        "outputId": "73a8c234-a537-4723-db3b-991726357699"
+        "outputId": "cfceff1b-925b-4e98-db0d-2d16d764e33e"
       },
       "execution_count": 32,
       "outputs": [
@@ -1480,7 +1504,7 @@
       "metadata": {
         "id": "hDUouAVDM3kj"
       },
-      "execution_count": null,
+      "execution_count": 33,
       "outputs": []
     },
     {
@@ -1495,12 +1519,12 @@
       ],
       "metadata": {
         "id": "o1WkAaxQ194C",
-        "outputId": "5f0fa53c-1dec-4e65-d0cc-e450a77e9fee",
+        "outputId": "69f2e7d3-bb69-481e-e89f-5e0c8876f049",
         "colab": {
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 33,
+      "execution_count": 34,
       "outputs": [
         {
           "output_type": "stream",
@@ -1519,12 +1543,29 @@
     {
       "cell_type": "code",
       "source": [
+        "#findall method\n",
+        "#back refrences or using sub group\n",
+        "pattern = re.compile(r'https?://(www\\.)?(\\w+)(\\.\\w+)')\n",
+        "\n",
+        "subbed_urls = pattern.sub(r'\\2\\3', urls)\n",
+        "\n",
+        "print(subbed_urls)"
+      ],
+      "metadata": {
+        "id": "T0pUs-ta_p-i"
+      },
+      "execution_count": 35,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
         "file_path = '/content/data.txt'"
       ],
       "metadata": {
         "id": "ZXSeDHioFG1u"
       },
-      "execution_count": 26,
+      "execution_count": 36,
       "outputs": []
     },
     {
@@ -1534,33 +1575,27 @@
         "    text_content = f.read()"
       ],
       "metadata": {
-        "id": "CfMvhOKVXd35"
+        "id": "CfMvhOKVXd35",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 165
+        },
+        "outputId": "089ee46c-70aa-4459-a3f2-fa70540dbae9"
       },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "pattern = re.compile(r'\\d\\d\\d.\\d\\d\\d.\\d\\d\\d\\d')\n",
-        "matches = pattern.finditer(text_content)\n",
-        "for match in matches:\n",
-        "  print(match)"
-      ],
-      "metadata": {
-        "id": "FC4ZxXzLHOmd"
-      },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "code",
-      "source": [],
-      "metadata": {
-        "id": "MVV2MUDiUa3q"
-      },
-      "execution_count": null,
-      "outputs": []
+      "execution_count": 37,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "FileNotFoundError",
+          "evalue": "[Errno 2] No such file or directory: '/content/data.txt'",
+          "traceback": [
+            "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+            "\u001b[0;31mFileNotFoundError\u001b[0m                         Traceback (most recent call last)",
+            "\u001b[0;32m<ipython-input-37-f4a0bec4f6d6>\u001b[0m in \u001b[0;36m<cell line: 0>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0;32mwith\u001b[0m \u001b[0mopen\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mfile_path\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0;34m'r'\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0mencoding\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0;34m'utf-8'\u001b[0m\u001b[0;34m)\u001b[0m \u001b[0;32mas\u001b[0m \u001b[0mf\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m      2\u001b[0m     \u001b[0mtext_content\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mf\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mread\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+            "\u001b[0;31mFileNotFoundError\u001b[0m: [Errno 2] No such file or directory: '/content/data.txt'"
+          ]
+        }
+      ]
     }
   ]
 }
